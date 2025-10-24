@@ -1,0 +1,11 @@
+D:\NT106-Exercise3\TCPClient\bin\Debug\TCPClient.exe.config
+D:\NT106-Exercise3\TCPClient\bin\Debug\TCPClient.exe
+D:\NT106-Exercise3\TCPClient\bin\Debug\TCPClient.pdb
+D:\NT106-Exercise3\TCPClient\obj\Debug\TCPClient.csproj.AssemblyReference.cache
+D:\NT106-Exercise3\TCPClient\obj\Debug\TCPClient.LoginForm.resources
+D:\NT106-Exercise3\TCPClient\obj\Debug\TCPClient.MainForm.resources
+D:\NT106-Exercise3\TCPClient\obj\Debug\TCPClient.Properties.Resources.resources
+D:\NT106-Exercise3\TCPClient\obj\Debug\TCPClient.csproj.GenerateResource.cache
+D:\NT106-Exercise3\TCPClient\obj\Debug\TCPClient.csproj.CoreCompileInputs.cache
+D:\NT106-Exercise3\TCPClient\obj\Debug\TCPClient.exe
+D:\NT106-Exercise3\TCPClient\obj\Debug\TCPClient.pdb
