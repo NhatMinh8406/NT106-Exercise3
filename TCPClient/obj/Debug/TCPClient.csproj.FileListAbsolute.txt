@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 D:\NT106-Exercise3\TCPClient\bin\Debug\TCPClient.exe.config
 D:\NT106-Exercise3\TCPClient\bin\Debug\TCPClient.exe
 D:\NT106-Exercise3\TCPClient\bin\Debug\TCPClient.pdb
@@ -20,3 +21,17 @@ C:\Users\ABC\Documents\GitHub\NT106-Exercise3\TCPClient\obj\Debug\TCPClient.cspr
 C:\Users\ABC\Documents\GitHub\NT106-Exercise3\TCPClient\obj\Debug\TCPClient.csproj.CoreCompileInputs.cache
 C:\Users\ABC\Documents\GitHub\NT106-Exercise3\TCPClient\obj\Debug\TCPClient.exe
 C:\Users\ABC\Documents\GitHub\NT106-Exercise3\TCPClient\obj\Debug\TCPClient.pdb
+=======
+D:\Download\Lập trình mạng căn bản\SharedLibrary và TCPClient\TCPClientApp\TCPClient\obj\Debug\TCPClient.csproj.AssemblyReference.cache
+D:\Download\Lập trình mạng căn bản\SharedLibrary và TCPClient\TCPClientApp\TCPClient\obj\Debug\TCPClient.Properties.Resources.resources
+D:\Download\Lập trình mạng căn bản\SharedLibrary và TCPClient\TCPClientApp\TCPClient\obj\Debug\TCPClient.csproj.GenerateResource.cache
+D:\Download\Lập trình mạng căn bản\SharedLibrary và TCPClient\TCPClientApp\TCPClient\obj\Debug\TCPClient.csproj.CoreCompileInputs.cache
+D:\Download\Lập trình mạng căn bản\SharedLibrary và TCPClient\TCPClientApp\TCPClient\bin\Debug\TCPClient.exe.config
+D:\Download\Lập trình mạng căn bản\SharedLibrary và TCPClient\TCPClientApp\TCPClient\bin\Debug\TCPClient.exe
+D:\Download\Lập trình mạng căn bản\SharedLibrary và TCPClient\TCPClientApp\TCPClient\bin\Debug\TCPClient.pdb
+D:\Download\Lập trình mạng căn bản\SharedLibrary và TCPClient\TCPClientApp\TCPClient\bin\Debug\SharedLibrary.dll
+D:\Download\Lập trình mạng căn bản\SharedLibrary và TCPClient\TCPClientApp\TCPClient\bin\Debug\SharedLibrary.pdb
+D:\Download\Lập trình mạng căn bản\SharedLibrary và TCPClient\TCPClientApp\TCPClient\obj\Debug\TCPClient.csproj.Up2Date
+D:\Download\Lập trình mạng căn bản\SharedLibrary và TCPClient\TCPClientApp\TCPClient\obj\Debug\TCPClient.exe
+D:\Download\Lập trình mạng căn bản\SharedLibrary và TCPClient\TCPClientApp\TCPClient\obj\Debug\TCPClient.pdb
+>>>>>>> b31843c (SharedLibrary và TCPClient)

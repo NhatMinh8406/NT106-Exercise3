@@ -4,7 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+<<<<<<< HEAD
     <ProjectGuid>{B57FC02A-754F-4BA2-8919-1FCCA6F1E53F}</ProjectGuid>
+=======
+    <ProjectGuid>{9B6A68F0-CBE7-465A-B904-2272FAA808C0}</ProjectGuid>
+>>>>>>> b31843c (SharedLibrary và TCPClient)
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>SharedLibrary</RootNamespace>

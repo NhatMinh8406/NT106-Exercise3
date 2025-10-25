@@ -1,0 +1,131 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Download\\L\u1EADp tr\u00ECnh m\u1EA1ng c\u0103n b\u1EA3n\\SharedLibrary v\u00E0 TCPClient\\TCPClientApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DB5695CF-5153-4A0D-9B07-984F235E4604}|TCPClient\\TCPClient.csproj|d:\\download\\l\u1EADp tr\u00ECnh m\u1EA1ng c\u0103n b\u1EA3n\\sharedlibrary v\u00E0 tcpclient\\tcpclientapp\\tcpclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB5695CF-5153-4A0D-9B07-984F235E4604}|TCPClient\\TCPClient.csproj|solutionrelative:tcpclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB5695CF-5153-4A0D-9B07-984F235E4604}|TCPClient\\TCPClient.csproj|d:\\download\\l\u1EADp tr\u00ECnh m\u1EA1ng c\u0103n b\u1EA3n\\sharedlibrary v\u00E0 tcpclient\\tcpclientapp\\tcpclient\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DB5695CF-5153-4A0D-9B07-984F235E4604}|TCPClient\\TCPClient.csproj|solutionrelative:tcpclient\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB5695CF-5153-4A0D-9B07-984F235E4604}|TCPClient\\TCPClient.csproj|d:\\download\\l\u1EADp tr\u00ECnh m\u1EA1ng c\u0103n b\u1EA3n\\sharedlibrary v\u00E0 tcpclient\\tcpclientapp\\tcpclient\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB5695CF-5153-4A0D-9B07-984F235E4604}|TCPClient\\TCPClient.csproj|solutionrelative:tcpclient\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB5695CF-5153-4A0D-9B07-984F235E4604}|TCPClient\\TCPClient.csproj|d:\\download\\l\u1EADp tr\u00ECnh m\u1EA1ng c\u0103n b\u1EA3n\\sharedlibrary v\u00E0 tcpclient\\tcpclientapp\\tcpclient\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB5695CF-5153-4A0D-9B07-984F235E4604}|TCPClient\\TCPClient.csproj|solutionrelative:tcpclient\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB5695CF-5153-4A0D-9B07-984F235E4604}|TCPClient\\TCPClient.csproj|d:\\download\\l\u1EADp tr\u00ECnh m\u1EA1ng c\u0103n b\u1EA3n\\sharedlibrary v\u00E0 tcpclient\\tcpclientapp\\tcpclient\\clientsocket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB5695CF-5153-4A0D-9B07-984F235E4604}|TCPClient\\TCPClient.csproj|solutionrelative:tcpclient\\clientsocket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B6A68F0-CBE7-465A-B904-2272FAA808C0}|SharedLibrary\\SharedLibrary.csproj|d:\\download\\l\u1EADp tr\u00ECnh m\u1EA1ng c\u0103n b\u1EA3n\\sharedlibrary v\u00E0 tcpclient\\tcpclientapp\\sharedlibrary\\securityhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B6A68F0-CBE7-465A-B904-2272FAA808C0}|SharedLibrary\\SharedLibrary.csproj|solutionrelative:sharedlibrary\\securityhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "D:\\Download\\L\u1EADp tr\u00ECnh m\u1EA1ng c\u0103n b\u1EA3n\\SharedLibrary v\u00E0 TCPClient\\TCPClientApp\\TCPClient\\LoginForm.cs",
+              "RelativeDocumentMoniker": "TCPClient\\LoginForm.cs",
+              "ToolTip": "D:\\Download\\L\u1EADp tr\u00ECnh m\u1EA1ng c\u0103n b\u1EA3n\\SharedLibrary v\u00E0 TCPClient\\TCPClientApp\\TCPClient\\LoginForm.cs",
+              "RelativeToolTip": "TCPClient\\LoginForm.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAwDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T10:37:01.675Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginForm.Designer.cs",
+              "DocumentMoniker": "D:\\Download\\L\u1EADp tr\u00ECnh m\u1EA1ng c\u0103n b\u1EA3n\\SharedLibrary v\u00E0 TCPClient\\TCPClientApp\\TCPClient\\LoginForm.Designer.cs",
+              "RelativeDocumentMoniker": "TCPClient\\LoginForm.Designer.cs",
+              "ToolTip": "D:\\Download\\L\u1EADp tr\u00ECnh m\u1EA1ng c\u0103n b\u1EA3n\\SharedLibrary v\u00E0 TCPClient\\TCPClientApp\\TCPClient\\LoginForm.Designer.cs",
+              "RelativeToolTip": "TCPClient\\LoginForm.Designer.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAAwHMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T10:37:02.867Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Download\\L\u1EADp tr\u00ECnh m\u1EA1ng c\u0103n b\u1EA3n\\SharedLibrary v\u00E0 TCPClient\\TCPClientApp\\TCPClient\\Program.cs",
+              "RelativeDocumentMoniker": "TCPClient\\Program.cs",
+              "ToolTip": "D:\\Download\\L\u1EADp tr\u00ECnh m\u1EA1ng c\u0103n b\u1EA3n\\SharedLibrary v\u00E0 TCPClient\\TCPClientApp\\TCPClient\\Program.cs",
+              "RelativeToolTip": "TCPClient\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T11:12:57.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClientSocket.cs",
+              "DocumentMoniker": "D:\\Download\\L\u1EADp tr\u00ECnh m\u1EA1ng c\u0103n b\u1EA3n\\SharedLibrary v\u00E0 TCPClient\\TCPClientApp\\TCPClient\\ClientSocket.cs",
+              "RelativeDocumentMoniker": "TCPClient\\ClientSocket.cs",
+              "ToolTip": "D:\\Download\\L\u1EADp tr\u00ECnh m\u1EA1ng c\u0103n b\u1EA3n\\SharedLibrary v\u00E0 TCPClient\\TCPClientApp\\TCPClient\\ClientSocket.cs",
+              "RelativeToolTip": "TCPClient\\ClientSocket.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T10:32:16.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "D:\\Download\\L\u1EADp tr\u00ECnh m\u1EA1ng c\u0103n b\u1EA3n\\SharedLibrary v\u00E0 TCPClient\\TCPClientApp\\TCPClient\\LoginForm.cs",
+              "RelativeDocumentMoniker": "TCPClient\\LoginForm.cs",
+              "ToolTip": "D:\\Download\\L\u1EADp tr\u00ECnh m\u1EA1ng c\u0103n b\u1EA3n\\SharedLibrary v\u00E0 TCPClient\\TCPClientApp\\TCPClient\\LoginForm.cs [Design]",
+              "RelativeToolTip": "TCPClient\\LoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T10:27:07.629Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SecurityHelper.cs",
+              "DocumentMoniker": "D:\\Download\\L\u1EADp tr\u00ECnh m\u1EA1ng c\u0103n b\u1EA3n\\SharedLibrary v\u00E0 TCPClient\\TCPClientApp\\SharedLibrary\\SecurityHelper.cs",
+              "RelativeDocumentMoniker": "SharedLibrary\\SecurityHelper.cs",
+              "ToolTip": "D:\\Download\\L\u1EADp tr\u00ECnh m\u1EA1ng c\u0103n b\u1EA3n\\SharedLibrary v\u00E0 TCPClient\\TCPClientApp\\SharedLibrary\\SecurityHelper.cs",
+              "RelativeToolTip": "SharedLibrary\\SecurityHelper.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T10:26:36.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
