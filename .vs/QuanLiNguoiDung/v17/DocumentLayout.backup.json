@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\leo71\\OneDrive\\Documents\\NT106-Exercise3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{75B7BDA5-4E15-4EAE-8613-3DFD9F8628D7}|TCPClient\\TCPClient.csproj|c:\\users\\leo71\\onedrive\\documents\\nt106-exercise3\\tcpclient\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75B7BDA5-4E15-4EAE-8613-3DFD9F8628D7}|TCPClient\\TCPClient.csproj|solutionrelative:tcpclient\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75B7BDA5-4E15-4EAE-8613-3DFD9F8628D7}|TCPClient\\TCPClient.csproj|c:\\users\\leo71\\onedrive\\documents\\nt106-exercise3\\tcpclient\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{75B7BDA5-4E15-4EAE-8613-3DFD9F8628D7}|TCPClient\\TCPClient.csproj|solutionrelative:tcpclient\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75B7BDA5-4E15-4EAE-8613-3DFD9F8628D7}|TCPClient\\TCPClient.csproj|c:\\users\\leo71\\onedrive\\documents\\nt106-exercise3\\tcpclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75B7BDA5-4E15-4EAE-8613-3DFD9F8628D7}|TCPClient\\TCPClient.csproj|solutionrelative:tcpclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\leo71\\OneDrive\\Documents\\NT106-Exercise3\\TCPClient\\Program.cs",
+              "RelativeDocumentMoniker": "TCPClient\\Program.cs",
+              "ToolTip": "C:\\Users\\leo71\\OneDrive\\Documents\\NT106-Exercise3\\TCPClient\\Program.cs",
+              "RelativeToolTip": "TCPClient\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T08:48:42.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RegisterForm.cs",
+              "DocumentMoniker": "C:\\Users\\leo71\\OneDrive\\Documents\\NT106-Exercise3\\TCPClient\\RegisterForm.cs",
+              "RelativeDocumentMoniker": "TCPClient\\RegisterForm.cs",
+              "ToolTip": "C:\\Users\\leo71\\OneDrive\\Documents\\NT106-Exercise3\\TCPClient\\RegisterForm.cs*",
+              "RelativeToolTip": "TCPClient\\RegisterForm.cs*",
+              "ViewState": "AgIAAIQAAAAAAAAAAAAlwJYAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T08:15:21.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegisterForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\leo71\\OneDrive\\Documents\\NT106-Exercise3\\TCPClient\\RegisterForm.cs",
+              "RelativeDocumentMoniker": "TCPClient\\RegisterForm.cs",
+              "ToolTip": "C:\\Users\\leo71\\OneDrive\\Documents\\NT106-Exercise3\\TCPClient\\RegisterForm.cs [Design]*",
+              "RelativeToolTip": "TCPClient\\RegisterForm.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T08:13:59.2Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
