@@ -1,6 +1,0 @@
-D:\Download\Lập trình mạng căn bản\SharedLibrary và TCPClient\TCPClientApp\SharedLibrary\bin\Debug\SharedLibrary.dll
-D:\Download\Lập trình mạng căn bản\SharedLibrary và TCPClient\TCPClientApp\SharedLibrary\bin\Debug\SharedLibrary.pdb
-D:\Download\Lập trình mạng căn bản\SharedLibrary và TCPClient\TCPClientApp\SharedLibrary\obj\Debug\SharedLibrary.csproj.AssemblyReference.cache
-D:\Download\Lập trình mạng căn bản\SharedLibrary và TCPClient\TCPClientApp\SharedLibrary\obj\Debug\SharedLibrary.csproj.CoreCompileInputs.cache
-D:\Download\Lập trình mạng căn bản\SharedLibrary và TCPClient\TCPClientApp\SharedLibrary\obj\Debug\SharedLibrary.dll
-D:\Download\Lập trình mạng căn bản\SharedLibrary và TCPClient\TCPClientApp\SharedLibrary\obj\Debug\SharedLibrary.pdb
