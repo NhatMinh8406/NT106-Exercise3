@@ -9,3 +9,14 @@ D:\NT106-Exercise3\TCPClient\obj\Debug\TCPClient.csproj.GenerateResource.cache
 D:\NT106-Exercise3\TCPClient\obj\Debug\TCPClient.csproj.CoreCompileInputs.cache
 D:\NT106-Exercise3\TCPClient\obj\Debug\TCPClient.exe
 D:\NT106-Exercise3\TCPClient\obj\Debug\TCPClient.pdb
+C:\Users\ABC\Documents\GitHub\NT106-Exercise3\TCPClient\bin\Debug\TCPClient.exe.config
+C:\Users\ABC\Documents\GitHub\NT106-Exercise3\TCPClient\bin\Debug\TCPClient.exe
+C:\Users\ABC\Documents\GitHub\NT106-Exercise3\TCPClient\bin\Debug\TCPClient.pdb
+C:\Users\ABC\Documents\GitHub\NT106-Exercise3\TCPClient\obj\Debug\TCPClient.csproj.AssemblyReference.cache
+C:\Users\ABC\Documents\GitHub\NT106-Exercise3\TCPClient\obj\Debug\TCPClient.LoginForm.resources
+C:\Users\ABC\Documents\GitHub\NT106-Exercise3\TCPClient\obj\Debug\TCPClient.MainForm.resources
+C:\Users\ABC\Documents\GitHub\NT106-Exercise3\TCPClient\obj\Debug\TCPClient.Properties.Resources.resources
+C:\Users\ABC\Documents\GitHub\NT106-Exercise3\TCPClient\obj\Debug\TCPClient.csproj.GenerateResource.cache
+C:\Users\ABC\Documents\GitHub\NT106-Exercise3\TCPClient\obj\Debug\TCPClient.csproj.CoreCompileInputs.cache
+C:\Users\ABC\Documents\GitHub\NT106-Exercise3\TCPClient\obj\Debug\TCPClient.exe
+C:\Users\ABC\Documents\GitHub\NT106-Exercise3\TCPClient\obj\Debug\TCPClient.pdb
