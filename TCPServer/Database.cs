@@ -18,7 +18,7 @@ namespace TCPServer
 
     class Database
     {
-        private string connectionString = "Data Source=DBAO\\SQLEXPRESS;Initial Catalog=QuanLyNguoiDungBai3NT106;Integrated Security=True";
+        private string connectionString = "Data Source=DBAO\\SQLEXPRESS;Initial Catalog=QuanLyNguoiDungBai3NT106;User ID=user;Password=user123;Persist Security Info=True";
 
         //Hàm kiểm tra Username đã tồn tại chưa
         public bool CheckUsernameExists(string username)
