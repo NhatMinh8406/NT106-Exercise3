@@ -1,0 +1,14 @@
+D:\UIT\Kì 3\NT106\Nhóm\EX3\TCPClient\obj\Debug\TCPClient.csproj.AssemblyReference.cache
+D:\UIT\Kì 3\NT106\Nhóm\EX3\TCPClient\obj\Debug\TCPClient.Properties.Resources.resources
+D:\UIT\Kì 3\NT106\Nhóm\EX3\TCPClient\obj\Debug\TCPClient.csproj.GenerateResource.cache
+D:\UIT\Kì 3\NT106\Nhóm\EX3\TCPClient\obj\Debug\TCPClient.csproj.CoreCompileInputs.cache
+D:\UIT\Kì 3\NT106\Nhóm\EX3\TCPClient\bin\Debug\TCPClient.exe.config
+D:\UIT\Kì 3\NT106\Nhóm\EX3\TCPClient\bin\Debug\TCPClient.exe
+D:\UIT\Kì 3\NT106\Nhóm\EX3\TCPClient\bin\Debug\TCPClient.pdb
+D:\UIT\Kì 3\NT106\Nhóm\EX3\TCPClient\bin\Debug\Newtonsoft.Json.dll
+D:\UIT\Kì 3\NT106\Nhóm\EX3\TCPClient\bin\Debug\Newtonsoft.Json.xml
+D:\UIT\Kì 3\NT106\Nhóm\EX3\TCPClient\obj\Debug\TcpUserServer.RegisterForm.resources
+D:\UIT\Kì 3\NT106\Nhóm\EX3\TCPClient\obj\Debug\TCPClient.csproj.Up2Date
+D:\UIT\Kì 3\NT106\Nhóm\EX3\TCPClient\obj\Debug\TCPClient.exe
+D:\UIT\Kì 3\NT106\Nhóm\EX3\TCPClient\obj\Debug\TCPClient.pdb
+D:\UIT\Kì 3\NT106\Nhóm\EX3\TCPClient\obj\Debug\TcpUserServer.LoginForm.resources
