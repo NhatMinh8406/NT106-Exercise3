@@ -10,7 +10,7 @@
 
 24520190	Trương Châu Duy Bảo
 
-- Mục tiêu bài tập: Ứng dụng TCP socket vào Winform để thiết lập kết nối giữa client và server
+- Mục tiêu bài tập: Ứng dụng TCP socket vào Winform để thiết lập kết nối giữa client và server, sử dụng ngôn ngữ C# và giải quyết các vấn đề trong kết nối database cũng như quản lí mô hình client-server.
 
 - Cấu trúc thư mục:
 
@@ -23,8 +23,6 @@
 - Chức năng chính: Kết nối giữa client và server thông qua các form đăng nhập và đăng kí, gửi và nhận thông tin, thông tin được lưu trữ trong database.
 
 - Chạy chương trình:
- + Khởi động file EX3.sln
-
- + Chạy TCPServer trước TCPClient
-
-  + Đăng nhập bằng tài khoản có sẵn trong database hoặc tạo mới
+    + Khởi động file EX3.sln
+    + Chạy TCPServer trước TCPClient
+    + Đăng nhập bằng tài khoản có sẵn trong database hoặc tạo mới
